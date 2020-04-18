@@ -1,6 +1,6 @@
 # MEAN
-Данный проект раскрывает в себе весь цикл FullStack JavaScript-разработки на MEAN STACK: MongoDB, Express.js, Angular и Node.js.
+This project reveals the entire cycle of FullStack JavaScript development on MEAN STACK: MongoDB, Express.js, Angular and Node.js.
 
-Программа представляет собой CRM-систему для управления заказами
+The program is a CRM system for order management
 
-Протестировать данную систему можно перейдя по этой ссылке - https://young-shelf-90567.herokuapp.com/
+You can test this system by clicking on this [link](https://young-shelf-90567.herokuapp.com/)
